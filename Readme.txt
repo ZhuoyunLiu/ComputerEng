@@ -1,6 +1,6 @@
 ﻿APcluster algorithm 
-1.收集论文文件夹里存放的是我收集的相关论文
-Some papers are collected in the Paper folder
-2.C编程文件夹里存放的是我用C语言实现相似性传播的算法代码的部分版本
-The second folder, the C program folder ,in which I put some visions of my code recording the programming progress.
-3. 
+1.“收集论文”文件夹里存放的是我收集的相关论文
+
+2.“C编程实现”文件夹里存放的是我用C语言实现相似性传播的算法代码的部分版本
+
+3. “最终代码及说明文档”文件夹里存放的是最终提交的代码（APC.c）以及代码说明文档（Code_Documentation_Liuzhuoyun）,C程序代码可在gcc中编译运行，具体运行结果、函数接口说明请见代码说明文档
